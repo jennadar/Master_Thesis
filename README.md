@@ -108,10 +108,10 @@ The project uses the **UNSW-NB15 dataset**, a benchmark dataset for evaluating i
 ### **Requirements**
 Install the required Python libraries:
 ```bash
-pip install -r requirements.txt
+pip install tensorflow tensorflow-federated jupyter pandas numpy scikit-learn matplotlib
 ```
 
-### **Running the Scripts**
+<!--### **Running the Scripts**
 1. **Data Segmentation**
    ```bash
    python scripts/data_segmentation.py
@@ -134,6 +134,7 @@ pip install -r requirements.txt
    ```
 
 ---
+-->
 
 <!--## **Contributing**
 
